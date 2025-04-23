@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ozqf5uya3-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ozqf5uya3-go
